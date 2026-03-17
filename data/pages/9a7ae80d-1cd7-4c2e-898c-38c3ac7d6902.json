@@ -35,11 +35,12 @@
   "created_by": "Luchisilvestri",
   "title": "Proyecto UNTREF",
   "slug": "proyecto-untref",
-  "updated_at": "2026-03-17T21:31:43.546Z",
+  "updated_at": "2026-03-17T21:32:09.340Z",
   "updated_by": "Luchisilvestri",
   "autogenerate": {
     "enabled": false,
     "type": "event",
     "type_id": "46438914-8c47-409f-879a-f5bcd788e940"
-  }
+  },
+  "parent": "0276c15a-b466-449c-bc68-4669f40ca970"
 }
