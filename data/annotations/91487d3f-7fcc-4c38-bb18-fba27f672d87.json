@@ -1,5 +1,220 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 16,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Se ha probado en esta audiencia y de ello nos hemos ocupado extensamente en pasajes"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Escribir",
+          "category": "Acciones"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Strassera"
+        },
+        {
+          "tag": "Lenguaje emotivo",
+          "category": "Dispositivos retóricos"
+        }
+      ],
+      "uuid": "5393b620-fe0d-40d3-b3bd-b5889da1a9fe"
+    },
+    {
+      "start_time": 16,
+      "end_time": 24,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "anteriores de este alegato la realización de múltiples actos ilícitos que a su vez"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Tiempo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Primer plano-De perfil"
+        }
+      ],
+      "uuid": "898f0e57-a616-452e-83a3-8e26de99c150"
+    },
+    {
+      "start_time": 24,
+      "end_time": 33,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "encuadran en diversas figuras del Código Penal. Antes de entrar al análisis de la intervención"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "de4af086-6a38-40f5-b654-2994545db1d9"
+    },
+    {
+      "start_time": 33,
+      "end_time": 41,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "de los procesados en estos actos conviene establecer cuál es la responsabilidad que"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "65169f45-ec4d-41ba-a395-34e98120674e"
+    },
+    {
+      "start_time": 41,
+      "end_time": 49,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "cabe a aquellos que asumen una participación cuya particular característica consiste en"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8ca33a25-f1a0-406b-bc6f-0a342d3aeaee"
+    },
+    {
+      "start_time": 49,
+      "end_time": 55,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "que no se registra su presencia en el lugar y en el momento en que las actividades ilícitas"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "643fc43f-6939-4355-bdec-00ac67785deb"
+    },
+    {
+      "start_time": 55,
+      "end_time": 63,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "se desarrollaron y cuya actividad radica en haber dado las órdenes generales a partir"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0373ec21-a3b4-4ffc-a723-88744bfb66ef"
+    },
+    {
+      "start_time": 63,
+      "end_time": 74,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "de las cuales el conjunto de delitos aquí presentados se cometió."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5e806420-ad1d-453e-b5ef-191bac9fc8e6"
+    },
+    {
+      "start_time": 74,
+      "end_time": 82,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Las órdenes a cuyo contenido más adelante me referiré, dadas desde la cabeza del aparato"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d33fbd31-4a4f-44ed-ad96-292d19dedc43"
+    },
+    {
+      "start_time": 82,
+      "end_time": 91,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "estatal significaron la asignación de una parte importante de este, provista de elementos"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8d249f91-5700-449d-a2f0-e10a8f6f1c30"
+    },
+    {
+      "start_time": 91,
+      "end_time": 99,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "materiales de toda clase a la realización de una cantidad de actividades comprensivas"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "828a2d6d-e40a-4b9e-83c0-5be714a8587f"
+    },
+    {
+      "start_time": 99,
+      "end_time": 103,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "de muchos y graves delitos descriptos en el Código Penal."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "39b60244-0643-4982-9ab5-40dd1d514720"
+    }
+  ],
   "set": "Default",
   "event_id": "46438914-8c47-409f-879a-f5bcd788e940",
   "source_id": "db2c1507-9850-4cb0-9d7a-0e5b2093e489"
